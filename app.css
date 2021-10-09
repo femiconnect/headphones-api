@@ -1,0 +1,17 @@
+.container {
+   max-width: 800px;
+   margin: 60px auto;
+}
+
+a {
+   background-color: #444;
+   color: white;
+   padding: 1em 1.5em;
+   text-decoration: none;
+   text-transform: capitalize;
+   cursor: pointer;
+}
+
+a:hover {
+   background-color: #777;
+}
