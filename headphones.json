@@ -1,0 +1,107 @@
+[
+   {
+      "id": 1,
+      "name": "Bose QuietComfort 45",
+      "rating": "5",
+      "newPrice": 329.99,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747485/headphones/Bose_QuietComfort_45-removebg-preview_v6ct56.png"
+   },
+   {
+      "id": 2,
+      "name": "Sennheiser HD 450BT",
+      "rating": "3",
+      "newPrice": 99.99,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747487/headphones/Sennheiser_HD_450BT-removebg-preview_huxfqs.png"
+   },
+   {
+      "id": 3,
+      "name": "Riwbox WT-7S",
+      "rating": "3",
+      "newPrice": 29.69,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747487/headphones/Riwbox_WT-7S-removebg-preview_q1arok.png"
+   },
+   {
+      "id": 4,
+      "name": "Edifier W820BT",
+      "rating": "3",
+      "newPrice": 64.99,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747485/headphones/Edifier_W820BT-removebg-preview_z46iu5.png"
+   },
+   {
+      "id": 5,
+      "name": "Porodo Soundtec Kids",
+      "rating": "3",
+      "newPrice": 33.99,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747487/headphones/Porodo_Soundtec_Kids-removebg-preview_dvyslf.png"
+   },
+   {
+      "id": 6,
+      "name": "Donerton Wireless Earbuds",
+      "rating": "3",
+      "newPrice": 28.04,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747486/headphones/Donerton_Wireless_Earbuds-removebg-preview_h3kana.png"
+   },
+   {
+      "id": 7,
+      "name": "Porodo Soundtec Pure Bass",
+      "rating": "3",
+      "newPrice": 18.8,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747487/headphones/Porodo_Soundtec_Pure_Bass-removebg-preview_x80jtz.png"
+   },
+   {
+      "id": 8,
+      "name": "Skullcandy Crusher Evo",
+      "rating": "4",
+      "newPrice": 199.99,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747487/headphones/Skullcandy_Crusher_Evo-removebg-preview_dyv6gf.png"
+   },
+   {
+      "id": 10,
+      "name": "HIFIMAN SUNDARA",
+      "rating": "5",
+      "newPrice": 349.99,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747486/headphones/HIFIMAN_SUNDARA-removebg-preview_h0yicg.png"
+   },
+   {
+      "id": 11,
+      "name": "MQ572 Beats Studio3 Wireless",
+      "rating": "5",
+      "newPrice": 289.69,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747486/headphones/MQ572Beats_Studio3_Wireless-removebg-preview_vhtwhs.png"
+   },
+   {
+      "id": 12,
+      "name": "Sony WF-1000XM3",
+      "rating": "4",
+      "newPrice": 198.15,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747488/headphones/Sony_WF-1000XM3-removebg-preview_dajslv.png"
+   },
+   {
+      "id": 13,
+      "name": "SENNHEISER Momentum 3",
+      "rating": "5",
+      "newPrice": 268.95,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747486/headphones/Momentum_3_sandy_Sennheiser-removebg-preview_pzidhh.png"
+   },
+   {
+      "id": 14,
+      "name": "JBL Tune-T220-Tws wireless Earbud",
+      "rating": "3",
+      "newPrice": 99.95,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747486/headphones/JBL_Tune-T220-Tws_wireless_Earbud-removebg-preview_m4vght.png"
+   },
+   {
+      "id": 15,
+      "name": "Audio-Technica ATH-M50X",
+      "rating": "4",
+      "newPrice": 149.55,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747488/headphones/Sony_MDR7506__2_-removebg-preview_nvfhel.png"
+   },
+   {
+      "id": 16,
+      "name": "Sony MDR7506",
+      "rating": "3",
+      "newPrice": 99.99,
+      "img": "https://res.cloudinary.com/femiconnect/image/upload/v1633747488/headphones/Sony_MDR7506-removebg-preview_qcogav.png"
+   }
+]
